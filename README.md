@@ -1,21 +1,21 @@
-<h1 align="center">Olá, eu sou o Gabriel </h1>
+<h1 align="center">Hi, I'm Gabriel</h1>
 
 <p align="center">
-  Estudante de <b>Engenharia de Software</b> <br>
-  Técnico em Desenvolvimento de Sistemas <br>
-  Focado em Desenvolvimento Web
+  Software Engineering Student <br>
+  Systems Development Technician <br>
+  Focused on Web Development
 </p>
 
 ---
 
-## Sobre mim
-- Atualmente aprendendo **JavaScript, Node.js e React**
-- Interesses: **Desenvolvimento Web, Banco de Dados e Engenharia de Software**
-- Experiência com **projetos acadêmicos e práticos** (chatbots, mapa de salas, CRUDs)
+## About me
+- Currently learning **JavaScript, Node.js, and React**
+- Interests: **Web Development, Databases, and Software Engineering**
+- Experience with **academic and practical projects** (chatbots, classroom maps, CRUDs)
 
 ---
 
-## Tecnologias e Ferramentas
+## Technologies and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" />
@@ -29,14 +29,14 @@
 
 ---
 
-## Projetos em Destaque
-- 🔹 [Mapa de Salas Senac](https://github.com/gfherber/nome-do-repo)  
-- 🔹 [CRUD de Usuários](https://github.com/gfherber/nome-do-repo)  
-- 🔹 [Portfólio Pessoal](https://github.com/gfherber/nome-do-repo)  
+## Featured Projects
+- 🔹 [Senac Classroom Map](https://github.com/gfherber/repo-name)
+- 🔹 [User CRUD](https://github.com/gfherber/repo-name)
+- 🔹 [Personal Portfolio](https://github.com/gfherber/repo-name)
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfherber&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfherber&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## Como me encontrar
+## How to reach me
 <p align="left">
   <a href="https://linkedin.com/in/gabriel-herber" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
