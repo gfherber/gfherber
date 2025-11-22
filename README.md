@@ -29,13 +29,6 @@
 
 ---
 
-## Featured Projects
-- 🔹 [Senac Classroom Map](https://github.com/gfherber/repo-name)
-- 🔹 [User CRUD](https://github.com/gfherber/repo-name)
-- 🔹 [Personal Portfolio](https://github.com/gfherber/repo-name)
-
----
-
 ## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gfherber&show_icons=true&theme=tokyonight" />
